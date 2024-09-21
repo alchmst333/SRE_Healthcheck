@@ -1,0 +1,14 @@
+2024/09/20 20:51:34 healthcheck.go:202: Domains and URLs being monitored:
+2024/09/20 20:51:34 healthcheck.go:205: - Domain: fetch.com, URL: https://fetch.com/
+2024/09/20 20:51:34 healthcheck.go:205: - Domain: fetch.com, URL: https://fetch.com/careers
+2024/09/20 20:51:34 healthcheck.go:205: - Domain: fetch.com, URL: https://fetch.com/rewards
+2024/09/20 20:51:34 healthcheck.go:205: - Domain: fetch.com, URL: https://fetch.com/brands
+2024/09/20 20:51:34 healthcheck.go:205: - Domain: ekr.zdassets.com, URL: https://ekr.zdassets.com/compose/web_widget/fetchrewards.zendesk.com
+2024/09/20 20:51:34 healthcheck.go:207: 
+2024/09/20 20:51:34 healthcheck.go:226: Starting initial health check...
+2024/09/20 20:51:34 healthcheck.go:109: UP: fetch careers page (https://fetch.com/careers) - Status: 200, Latency: 112.698792ms
+2024/09/20 20:51:34 healthcheck.go:109: UP: fetch index page (https://fetch.com/) - Status: 200, Latency: 112.717667ms
+2024/09/20 20:51:34 healthcheck.go:109: UP: fetch brands page (https://fetch.com/brands) - Status: 200, Latency: 129.254125ms
+2024/09/20 20:51:34 healthcheck.go:109: UP: fetch rewards index page (https://fetch.com/rewards) - Status: 200, Latency: 161.03225ms
+2024/09/20 20:51:34 healthcheck.go:109: UP: fetch help page (https://ekr.zdassets.com/compose/web_widget/fetchrewards.zendesk.com) - Status: 200, Latency: 224.64475ms
+2024/09/20 20:51:36 healthcheck.go:254: Received signal interrupt. Exiting program.

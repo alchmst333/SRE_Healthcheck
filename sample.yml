@@ -1,0 +1,28 @@
+- headers:
+    user-agent: fetch-synthetic-monitor
+  method: GET
+  name: fetch index page
+  url: https://fetch.com/
+- headers:
+    user-agent: fetch-synthetic-monitor
+  method: GET
+  name: fetch careers page
+  url: https://fetch.com/careers
+- headers:
+    content-type: application/json
+    user-agent: fetch-synthetic-monitor
+  method: GET
+  name: fetch rewards index page
+  url: https://fetch.com/rewards
+- headers:
+    content-type: application/json
+    user-agent: fetch-synthetic-monitor
+  method: GET
+  name: fetch brands page
+  url: https://fetch.com/brands
+- headers:
+    content-type: application/json
+    user-agent: fetch-synthetic-monitor
+  method: GET
+  name: fetch help page
+  url: https://ekr.zdassets.com/compose/web_widget/fetchrewards.zendesk.com
