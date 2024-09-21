@@ -77,6 +77,6 @@ headers:
 
 ### Additional Enhancements and Recommendations
 
-- Retry Logic for transient failures before making an endpoint as DOWN.
+- Retry Logic for transient failures before marking an endpoint as DOWN.
 - Integrate with Alerting Mechanisms to send notifications for endpoint status changes.  Examples: email, slack, etc
 - Dashboard Instrumentation for metrics visualization. Example: Prometheus w/ Grafana
